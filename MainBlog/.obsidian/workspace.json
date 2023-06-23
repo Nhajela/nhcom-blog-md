@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A good day.md",
+                "file": "A-good-day.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A good day.md",
+                "file": "A-good-day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A good day.md",
+                "file": "A-good-day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A good day.md"
+                "file": "A-good-day.md"
               }
             }
           }
@@ -162,6 +162,6 @@
   "active": "c955d18c37ac1ed7",
   "lastOpenFiles": [
     "testblog.md",
-    "A good day.md"
+    "A-good-day.md"
   ]
 }
